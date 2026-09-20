@@ -31,7 +31,7 @@ Our system ingests event payloads and delivers fast-path determinative rule chec
 * **Seamless Developer Integration:** Simple REST/Webhook integration allowing digital platforms to deploy multi-layer fraud protection with minimal code changes[cite: 1].
 
 ## 💻 Local Setup & Deployment
-1. Clone the repository: `git clone https://github.com/yourusername/trinetra-kavach.git`
+1. Clone the repository: `https://github.com/avikasahu1212-cloud/Trinetra-Kavach`
 2. Install frontend dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Set up your Supabase and Gemini API keys in the `.env` file.
